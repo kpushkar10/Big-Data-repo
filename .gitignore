@@ -1,2 +1,3 @@
-./nyc-taxi-trip-duration
-./data
+data/
+nyc-taxi-trip-duration/
+.ipynb_checkpoints/
